@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380
+    "width": 380,
+    "collapsed": true
   },
   "right": {
     "id": "b30d597dedd726d9",
@@ -161,7 +162,7 @@
       "obsidian-telegraph-publish:Publish to Telegraph": false
     }
   },
-  "active": "51b87c788b51fd4a",
+  "active": "f1eccd7c07a86474",
   "lastOpenFiles": [
     "01/Evernote/Обиженные_ декларативная простота и демонстративна.md",
     "ivanov-petrov.md",
