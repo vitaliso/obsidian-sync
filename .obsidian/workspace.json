@@ -11,8 +11,12 @@
             "id": "51b87c788b51fd4a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "«Десять заповедей искусства».md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380,
-    "collapsed": true
+    "width": 380
   },
   "right": {
     "id": "b30d597dedd726d9",
@@ -83,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "«Десять заповедей искусства».md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "«Десять заповедей искусства».md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
