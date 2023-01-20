@@ -1,0 +1,109 @@
+{
+  "main": {
+    "id": "845721299b7f9b19",
+    "type": "split",
+    "children": [
+      {
+        "id": "00d95c441851c518",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "первый блокнот.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dcc9e2cfb5f009dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbbc3e8a3ec8c57b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1eccd7c07a86474",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bd3f544f96312c8e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b30d597dedd726d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1854dc9ad977d95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64ba16afe2d2afa3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "первый блокнот.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "26831b8eb830d67d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89afb67ed02ed1ca",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "00d95c441851c518",
+  "lastOpenFiles": [
+    "первый блокнот.md",
+    "второй блокнот.md",
+    "Первая заметка.md",
+    "README.md"
+  ]
+}

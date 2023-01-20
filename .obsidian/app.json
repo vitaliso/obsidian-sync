@@ -1,0 +1,8 @@
+{
+  "promptDelete": false,
+  "readableLineLength": false,
+  "attachmentFolderPath": "./_attachments",
+  "newFileLocation": "current",
+  "legacyEditor": false,
+  "livePreview": true
+}

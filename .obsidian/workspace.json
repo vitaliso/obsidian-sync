@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "845721299b7f9b19",
+    "type": "split",
+    "children": [
+      {
+        "id": "47c10197511ccf58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51b87c788b51fd4a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dcc9e2cfb5f009dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbbc3e8a3ec8c57b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1eccd7c07a86474",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bd3f544f96312c8e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "(no title)",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b64d87190ab5d3d8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 380
+  },
+  "right": {
+    "id": "b30d597dedd726d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1854dc9ad977d95",
+        "type": "tabs",
+        "dimension": 50.38684719535783,
+        "children": [
+          {
+            "id": "64ba16afe2d2afa3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bdf3d18ec0e98e58",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "43e65d347cb3a46f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b875421a10c91ae3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "26831b8eb830d67d",
+        "type": "tabs",
+        "dimension": 49.61315280464217,
+        "children": [
+          {
+            "id": "89afb67ed02ed1ca",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 318
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Открыть палитру команд": false,
+      "markdown-importer:Импорт Markdown-файлов": false,
+      "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
+      "obsidian-telegraph-publish:Publish to Telegraph": false
+    }
+  },
+  "active": "51b87c788b51fd4a",
+  "lastOpenFiles": [
+    "01/Evernote/Обиженные_ декларативная простота и демонстративна.md",
+    "ivanov-petrov.md",
+    "01/Evernote/(no title)-64.md",
+    "01/Evernote/(no title)-20.md",
+    "01/Evernote/(no title)-19.md",
+    "01/Evernote/(no title)-18.md",
+    "आः हूँ वज्र गुरु पद्म सिद्धि हूँ.md",
+    "01/Evernote/#ivanov_petrov — ЖЖ-72.md",
+    "Герменевтика.md",
+    "01/Evernote/_ _ __ ivanov_petrov — ЖЖ-79.md"
+  ]
+}
