@@ -11,12 +11,8 @@
             "id": "51b87c788b51fd4a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ivanov-petrov.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -69,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380,
-    "collapsed": true
+    "width": 380
   },
   "right": {
     "id": "b30d597dedd726d9",
@@ -87,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ivanov-petrov.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ivanov-petrov.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,17 +155,17 @@
       "obsidian-telegraph-publish:Publish to Telegraph": false
     }
   },
-  "active": "f1eccd7c07a86474",
+  "active": "51b87c788b51fd4a",
   "lastOpenFiles": [
+    "Дерида-дерида и другие мемы.md",
+    "Антиэнтропийная эволюция.md",
+    "Microsoft Word - Мелихов_n.doc.md",
+    "Связи.md",
     "«Десять заповедей искусства».md",
-    "01/Evernote/Обиженные_ декларативная простота и демонстративна.md",
+    "О пространстве решений.md",
+    "железноголовый.md",
+    "БИБЛИОГРАФИЧЕСКАЯ ЭВРИСТИКА.md",
     "ivanov-petrov.md",
-    "01/Evernote/(no title)-64.md",
-    "01/Evernote/(no title)-20.md",
-    "01/Evernote/(no title)-19.md",
-    "01/Evernote/(no title)-18.md",
-    "आः हूँ वज्र गुरु पद्म सिद्धि हूँ.md",
-    "01/Evernote/#ivanov_petrov — ЖЖ-72.md",
-    "Герменевтика.md"
+    "01/Evernote/Обиженные_ декларативная простота и демонстративна.md"
   ]
 }

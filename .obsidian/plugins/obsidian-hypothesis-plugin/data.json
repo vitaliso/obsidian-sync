@@ -7,8 +7,8 @@
   "syncOnBoot": true,
   "dateTimeFormat": "YYYY-MM-DD HH:mm:ss",
   "history": {
-    "totalArticles": 2,
-    "totalHighlights": 987
+    "totalArticles": 11,
+    "totalHighlights": 1048
   },
   "syncedFiles": [
     {
@@ -40,4 +40,21 @@
       "uri": "https%3A%2F%2Fproza.ru%2F2017%2F01%2F21%2F374"
     },
     {
-      "filename": "Эрвин Шрёдинг
+      "filename": "Эрвин Шрёдингер о восприятиях и внешнем мире — blog.rudnyi.ruru.md",
+      "uri": "http%3A%2F%2Fblog.rudnyi.ru%2Fru%2F2019%2F02%2Fschroedinger-mind-and-matter.html"
+    },
+    {
+      "filename": "Отход от реализма.md",
+      "uri": "http%3A%2F%2Fblog.rudnyi.ru%2Fru%2F2023%2F02%2Fthe-retreat-from-realism.html"
+    },
+    {
+      "filename": "Разъединенностное.md",
+      "uri": "https%3A%2F%2Fusers.livejournal.com%2F-moss%2F1922542.html"
+    },
+    {
+      "filename": "Реза Негарестани. Психея и падаль.md",
+      "uri": "https%3A%2F%2Finsolarance.com%2Fthe-psyche-and-the-carrion%2F"
+    }
+  ],
+  "lastSyncDate": "2023-02-21T17:06:04.876Z"
+}
