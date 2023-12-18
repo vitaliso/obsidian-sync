@@ -14,19 +14,8 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "769156003e729374",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -174,11 +163,11 @@
       "obsidian-telegraph-publish:Publish to Telegraph": false
     }
   },
-  "active": "769156003e729374",
+  "active": "392b7e0c250fb560",
   "lastOpenFiles": [
-    "Очки нейроученого — blog.rudnyi.ruru.md",
-    "Практики несбывшегося-2.md",
     "Договор на доверии и доверие по договору.md",
+    "Практики несбывшегося-2.md",
+    "Очки нейроученого — blog.rudnyi.ruru.md",
     "Непростительное.md",
     "staerum - Профиль.md",
     "Марта Нуссбаум.md",
