@@ -7,8 +7,8 @@
   "syncOnBoot": true,
   "dateTimeFormat": "YYYY-MM-DD HH:mm:ss",
   "history": {
-    "totalArticles": 11,
-    "totalHighlights": 1048
+    "totalArticles": 31,
+    "totalHighlights": 1204
   },
   "syncedFiles": [
     {
@@ -54,7 +54,91 @@
     {
       "filename": "Реза Негарестани. Психея и падаль.md",
       "uri": "https%3A%2F%2Finsolarance.com%2Fthe-psyche-and-the-carrion%2F"
+    },
+    {
+      "filename": "Механическое интеллектуальное умение.md",
+      "uri": "https%3A%2F%2Fivanov-petrov.livejournal.com%2F2429997.html"
+    },
+    {
+      "filename": "В феврале на Земле появился первый инопланетянин, но об этом пока молчат.md",
+      "uri": "https%3A%2F%2Fsergey-57776.medium.com%2F%25D0%25B2-%25D1%2584%25D0%25B5%25D0%25B2%25D1%2580%25D0%25B0%25D0%25BB%25D0%25B5-%25D0%25BD%25D0%25B0-%25D0%25B7%25D0%25B5%25D0%25BC%25D0%25BB%25D0%25B5-%25D0%25BF%25D0%25BE%25D1%258F%25D0%25B2%25D0%25B8%25D0%25BB%25D1%2581%25D1%258F-%25D0%25BF%25D0%25B5%25D1%2580%25D0%25B2%25D1%258B%25D0%25B9-%25D0%25B8%25D0%25BD%25D0%25BE%25D0%25BF%25D0%25BB%25D0%25B0%25D0%25BD%25D0%25B5%25D1%2582%25D1%258F%25D0%25BD%25D0%25B8%25D0%25BD-%25D0%25BD%25D0%25BE-%25D0%25BE%25D0%25B1-%25D1%258D%25D1%2582%25D0%25BE%25D0%25BC-%25D0%25BF%25D0%25BE%25D0%25BA%25D0%25B0-%25D0%25BC%25D0%25BE%25D0%25BB%25D1%2587%25D0%25B0%25D1%2582-499d5e98ba05"
+    },
+    {
+      "filename": "ускользающее.md",
+      "uri": "https%3A%2F%2Fwindeyes.livejournal.com%2F"
+    },
+    {
+      "filename": "Непостижимая эффективность математики.md",
+      "uri": "https%3A%2F%2Fanairos.livejournal.com%2F74634.html"
+    },
+    {
+      "filename": "Евангелие от Доменико.md",
+      "uri": "https%3A%2F%2Fwww.russkoekino.ru%2Fbooks%2Ftarkovsky%2Ftarkovsky-0071.shtml"
+    },
+    {
+      "filename": "Цинизм — Википедия.md",
+      "uri": "https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%25A6%25D0%25B8%25D0%25BD%25D0%25B8%25D0%25B7%25D0%25BC"
+    },
+    {
+      "filename": "Автоматизмы.md",
+      "uri": "https%3A%2F%2Fex0rtodox.livejournal.com%2F26531.html"
+    },
+    {
+      "filename": "Понимание и объяснение — blog.rudnyi.ruru.md",
+      "uri": "http%3A%2F%2Fblog.rudnyi.ru%2Fru%2F2021%2F09%2Fponimanie-i-obyasnenie.html"
+    },
+    {
+      "filename": "мысли о мышлении.md",
+      "uri": "https%3A%2F%2Fmeixon.livejournal.com%2F13283.html"
+    },
+    {
+      "filename": "Интересные высказывания о Мире Идей.md",
+      "uri": "https%3A%2F%2Fval000.livejournal.com%2F473755.html"
+    },
+    {
+      "filename": "Стихи о кровавой геронтократии.md",
+      "uri": "https%3A%2F%2Fdiak-kuraev.livejournal.com%2F4006629.html"
+    },
+    {
+      "filename": "Понимание.md",
+      "uri": "https%3A%2F%2Fex0rtodox.livejournal.com%2F27929.html"
+    },
+    {
+      "filename": "Читать онлайн Записки гадкого утёнка - Померанц Григорий Соломонович - RuLit - Страница 9.md",
+      "uri": "https%3A%2F%2Fwww.rulit.me%2Fbooks%2Fzapiski-gadkogo-utyonka-read-209827-9.html"
+    },
+    {
+      "filename": "09 March 2020 - ускользающее.md",
+      "uri": "https%3A%2F%2Fwindeyes.livejournal.com%2Fcalendar%2F"
+    },
+    {
+      "filename": "где-то в Африке.md",
+      "uri": "https%3A%2F%2Fwindeyes.livejournal.com%2F418992.html"
+    },
+    {
+      "filename": "Русское мышление.md",
+      "uri": "https%3A%2F%2Fivanov-petrov.livejournal.com%2F2436837.html"
+    },
+    {
+      "filename": "Проблема индукции — Википедия.md",
+      "uri": "https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%259F%25D1%2580%25D0%25BE%25D0%25B1%25D0%25BB%25D0%25B5%25D0%25BC%25D0%25B0_%25D0%25B8%25D0%25BD%25D0%25B4%25D1%2583%25D0%25BA%25D1%2586%25D0%25B8%25D0%25B8"
+    },
+    {
+      "filename": "пройденное.md",
+      "uri": "https%3A%2F%2Fantimeridiem.livejournal.com%2F2091909.html"
+    },
+    {
+      "filename": "Жак Лакан.md",
+      "uri": "https%3A%2F%2Fsyg.ma%2F%40intraduction%2Fzhak-lakan-lakanovskii-fienomien"
+    },
+    {
+      "filename": "Conversations.md",
+      "uri": "https%3A%2F%2Fvk.com%2Feplkur%3Fw%3Dwall-33293957_2963"
+    },
+    {
+      "filename": "Не найду слова  Владимир Бибихин.md",
+      "uri": "http%3A%2F%2Fwww.bibikhin.ru%2Fne_naydu_slova"
     }
   ],
-  "lastSyncDate": "2023-02-21T17:06:04.876Z"
+  "lastSyncDate": "2023-12-18T09:35:36.281Z"
 }
