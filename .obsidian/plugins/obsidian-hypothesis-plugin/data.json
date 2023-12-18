@@ -7,8 +7,8 @@
   "syncOnBoot": true,
   "dateTimeFormat": "YYYY-MM-DD HH:mm:ss",
   "history": {
-    "totalArticles": 31,
-    "totalHighlights": 1204
+    "totalArticles": 73,
+    "totalHighlights": 1404
   },
   "syncedFiles": [
     {
@@ -138,7 +138,171 @@
     {
       "filename": "Не найду слова  Владимир Бибихин.md",
       "uri": "http%3A%2F%2Fwww.bibikhin.ru%2Fne_naydu_slova"
+    },
+    {
+      "filename": "Совершенно замечательная.md",
+      "uri": "https%3A%2F%2Fivanov-p.livejournal.com%2F291279.html"
+    },
+    {
+      "filename": "15 April 2016 - мой гребаный госпел.md",
+      "uri": "https%3A%2F%2Fshn.livejournal.com%2Fcalendar%2F"
+    },
+    {
+      "filename": "Люди без результата.md",
+      "uri": "https%3A%2F%2Fivanov-petrov.livejournal.com%2F2445765.html"
+    },
+    {
+      "filename": "Клеша — Википедия.md",
+      "uri": "https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%259A%25D0%25BB%25D0%25B5%25D1%2588%25D0%25B0"
+    },
+    {
+      "filename": "Нейрофизиология — разное — blog.rudnyi.ruru.md",
+      "uri": "http%3A%2F%2Fblog.rudnyi.ru%2Fru%2F2023%2F06%2Fneirofiziologiya-raznoe.html"
+    },
+    {
+      "filename": "Память и мнение.md",
+      "uri": "https%3A%2F%2Fanairos.livejournal.com%2F276999.html"
+    },
+    {
+      "filename": "Кристалл алмаза.md",
+      "uri": "https%3A%2F%2Fwindeyes.livejournal.com%2F673782.html"
+    },
+    {
+      "filename": "Карма.md",
+      "uri": "https%3A%2F%2Fmikeura.livejournal.com%2F623987.html"
+    },
+    {
+      "filename": "Борис Пастернак - Август.md",
+      "uri": "http%3A%2F%2Fwww.bards.ru%2Farchives%2Fpart.php%3Fid%3D47070"
+    },
+    {
+      "filename": "История про то, что два раза не вставать.md",
+      "uri": "https%3A%2F%2Fberezin.livejournal.com%2F2182340.html"
+    },
+    {
+      "filename": "Чужая судьба.md",
+      "uri": "https%3A%2F%2Fval000.livejournal.com%2F2939373.html"
+    },
+    {
+      "filename": "Время беспредельщиков.md",
+      "uri": "https%3A%2F%2Finsolarance.com%2Fmodern-transgression%2F"
+    },
+    {
+      "filename": "Вклад в будущее.md",
+      "uri": "https%3A%2F%2Fivanov-petrov.livejournal.com%2F2450386.html"
+    },
+    {
+      "filename": "Мудрости в цитатах.md",
+      "uri": "https%3A%2F%2Fval000.livejournal.com%2F2946626.html"
+    },
+    {
+      "filename": "Куно Фишер о Лейбнице.md",
+      "uri": "https%3A%2F%2Fgignomai.livejournal.com%2F1263001.html"
+    },
+    {
+      "filename": "Проскомидия.md",
+      "uri": "https%3A%2F%2Fangels-chinese.livejournal.com%2F2724701.html"
+    },
+    {
+      "filename": "Вопрос о цене языка.md",
+      "uri": "https%3A%2F%2Fivanov-petrov.livejournal.com%2F2452540.html"
+    },
+    {
+      "filename": "726. NEI, 103-104.md",
+      "uri": "https%3A%2F%2Fgomez-davila.livejournal.com%2F188151.html"
+    },
+    {
+      "filename": "727. NEI, 105-106.md",
+      "uri": "https%3A%2F%2Fgomez-davila.livejournal.com%2F188222.html"
+    },
+    {
+      "filename": "728. NEI, 107-108.md",
+      "uri": "https%3A%2F%2Fgomez-davila.livejournal.com%2F188460.html"
+    },
+    {
+      "filename": "729. NEI, 109-110.md",
+      "uri": "https%3A%2F%2Fgomez-davila.livejournal.com%2F188803.html"
+    },
+    {
+      "filename": "Дианалитическая дискуссия.md",
+      "uri": "http%3A%2F%2Fwww.dianalyz.ru%2Fold%2FPrax%2FForms%2Fdiscus13.htm"
+    },
+    {
+      "filename": "1.1. Нейрофизиология сознания — Теория виртуального мира.md",
+      "uri": "http%3A%2F%2Fvirtualworldtheory.rudnyi.ru%2Fchapter1%2Fchapter11"
+    },
+    {
+      "filename": "1.2. Теория виртуального мира — Теория виртуального мира.md",
+      "uri": "http%3A%2F%2Fvirtualworldtheory.rudnyi.ru%2Fchapter1%2Fchapter12"
+    },
+    {
+      "filename": "1.3. Пространственные отношения — Теория виртуального мира.md",
+      "uri": "http%3A%2F%2Fvirtualworldtheory.rudnyi.ru%2Fchapter1%2Fchapter13"
+    },
+    {
+      "filename": "719. NEI, 103-104.md",
+      "uri": "https%3A%2F%2Fgomez-davila.livejournal.com%2F186146.html"
+    },
+    {
+      "filename": "715. NEI, 95-96.md",
+      "uri": "https%3A%2F%2Fgomez-davila.livejournal.com%2F185331.html"
+    },
+    {
+      "filename": "Бузиг.md",
+      "uri": "https%3A%2F%2Fbouzyges.livejournal.com%2F"
+    },
+    {
+      "filename": "Точка с запятой - «Грамота.ру» – справочно-информационный Интернет-портал «Русский язык».md",
+      "uri": "http%3A%2F%2Fnew.gramota.ru%2Fbiblio%2Freadingroom%2Frules%2F143-tz"
+    },
+    {
+      "filename": "Суфийская Традиция.md",
+      "uri": "https%3A%2F%2Fvectork.org%2Fsufijskaya-tradiciya%2F"
+    },
+    {
+      "filename": "Тайное учение тибетского буддизма о медитации — 1.md",
+      "uri": "https%3A%2F%2Fmikeura.livejournal.com%2F625014.html"
+    },
+    {
+      "filename": "Мои мысли и шутки. Часть 8.md",
+      "uri": "https%3A%2F%2Fval000.livejournal.com%2F272171.html"
+    },
+    {
+      "filename": "Виды зла.md",
+      "uri": "https%3A%2F%2Fivanov-petrov.livejournal.com%2F2454435.html"
+    },
+    {
+      "filename": "Комфорт не заниматься собой.md",
+      "uri": "https%3A%2F%2Fivanov-petrov.livejournal.com%2F2442463.html"
+    },
+    {
+      "filename": "Умные люди, которые всё держат под контролем.md",
+      "uri": "https%3A%2F%2Fswamp-lynx.livejournal.com%2F817137.html"
+    },
+    {
+      "filename": "Марта Нуссбаум.md",
+      "uri": "https%3A%2F%2Fopenuni.io%2Fcourse%2F8-course-7-1%2Flesson%2F2%2Fmaterial%2F757%2F"
+    },
+    {
+      "filename": "staerum - Профиль.md",
+      "uri": "https%3A%2F%2Fstaerum.livejournal.com%2Fprofile"
+    },
+    {
+      "filename": "Непростительное.md",
+      "uri": "https%3A%2F%2Fivanov-petrov.livejournal.com%2F2456574.html"
+    },
+    {
+      "filename": "Договор на доверии и доверие по договору.md",
+      "uri": "https%3A%2F%2Fanairos.livejournal.com%2F189315.html"
+    },
+    {
+      "filename": "Практики несбывшегося-2.md",
+      "uri": "https%3A%2F%2Fegy-ember.livejournal.com%2F28984.html"
+    },
+    {
+      "filename": "Очки нейроученого — blog.rudnyi.ruru.md",
+      "uri": "http%3A%2F%2Fblog.rudnyi.ru%2Fru%2F2023%2F09%2Fochki-neirouchenogo.html"
     }
   ],
-  "lastSyncDate": "2023-12-18T09:35:36.281Z"
+  "lastSyncDate": "2023-12-18T10:15:03.614Z"
 }
