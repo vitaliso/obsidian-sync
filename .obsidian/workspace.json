@@ -147,9 +147,19 @@
               "icon": "lucide-tags",
               "title": "Теги"
             }
+          },
+          {
+            "id": "518477479e999ea5",
+            "type": "leaf",
+            "state": {
+              "type": "smtcmp-chat-view",
+              "state": {},
+              "icon": "wand-sparkles",
+              "title": "Smart composer chat"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "26831b8eb830d67d",
@@ -180,10 +190,11 @@
       "command-palette:Открыть палитру команд": false,
       "markdown-importer:Импорт Markdown-файлов": false,
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "smart-composer:Open smart composer": false
     }
   },
-  "active": "f1eccd7c07a86474",
+  "active": "518477479e999ea5",
   "lastOpenFiles": [
     "01/Evernote/_ _ __ ivanov_petrov — ЖЖ-26.md",
     "01/Evernote/Диоген Лаэртский. КНИГА ПЕРВАЯ (Начало философии).md",

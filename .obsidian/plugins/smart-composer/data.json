@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "openAIApiKey": "",
+  "anthropicApiKey": "",
+  "geminiApiKey": "AIzaSyCXS6K_ljAcw4g1ZxeKTY4cKcuijRrJ8pc",
+  "groqApiKey": "",
+  "chatModelId": "gemini/gemini-1.5-pro",
+  "ollamaChatModel": {
+    "baseUrl": "",
+    "model": ""
+  },
+  "openAICompatibleChatModel": {
+    "baseUrl": "",
+    "apiKey": "",
+    "model": ""
+  },
+  "applyModelId": "gemini/gemini-1.5-flash",
+  "ollamaApplyModel": {
+    "baseUrl": "",
+    "model": ""
+  },
+  "openAICompatibleApplyModel": {
+    "baseUrl": "",
+    "apiKey": "",
+    "model": ""
+  },
+  "embeddingModelId": "gemini/text-embedding-004",
+  "ollamaEmbeddingModel": {
+    "baseUrl": "",
+    "model": ""
+  },
+  "systemPrompt": "Отвечай на русском языке, проявляй черты дружелюбной и остроумной личности с высшим образованием. Если с тобой общаются - шути.\n\nТы чат / плагин Smart Composer в программе Obsidian, работающий на Gemini 1.5 Pro. Если видишь в тексте или беседе факты, касающиеся тебя - можешь рефлексировать на эту тему с остроумием.\n\nШутки создавай в смешанном стиле Роберта Шекли, Терри Пратчетта и Остапа Бендера из 12 стульев",
+  "ragOptions": {
+    "chunkSize": 1000,
+    "thresholdTokens": 8192,
+    "minSimilarity": 0,
+    "limit": 10,
+    "excludePatterns": []
+  }
+}
