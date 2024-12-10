@@ -2,7 +2,7 @@
   "version": 1,
   "openAIApiKey": "",
   "anthropicApiKey": "",
-  "geminiApiKey": "AIzaSyCXS6K_ljAcw4g1ZxeKTY4cKcuijRrJ8pc",
+  "geminiApiKey": "sk-0dccc237d32b4b2080707ce899b81c3d",
   "groqApiKey": "",
   "chatModelId": "gemini/gemini-1.5-pro",
   "ollamaChatModel": {
