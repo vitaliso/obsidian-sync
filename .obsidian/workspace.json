@@ -8,11 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "392b7e0c250fb560",
+            "id": "30006111b21e3768",
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
             }
           }
         ]
@@ -35,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byModifiedTime"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -44,13 +48,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "(no title)",
+                "query": "tag:#мир",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
             }
           },
           {
@@ -58,7 +64,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Плагин больше не активен"
             }
           },
           {
@@ -66,14 +74,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 380
+    "width": 266.5
   },
   "right": {
     "id": "b30d597dedd726d9",
@@ -97,7 +107,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -105,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "recent-files",
-              "state": {}
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           },
           {
@@ -116,7 +130,9 @@
               "state": {
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
             }
           },
           {
@@ -127,7 +143,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
             }
           }
         ],
@@ -143,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -160,36 +180,45 @@
       "command-palette:Открыть палитру команд": false,
       "markdown-importer:Импорт Markdown-файлов": false,
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
-      "obsidian-telegraph-publish:Publish to Telegraph": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "392b7e0c250fb560",
+  "active": "f1eccd7c07a86474",
   "lastOpenFiles": [
-    "Договор на доверии и доверие по договору.md",
-    "Практики несбывшегося-2.md",
-    "Очки нейроученого — blog.rudnyi.ruru.md",
-    "Непростительное.md",
-    "staerum - Профиль.md",
-    "Марта Нуссбаум.md",
-    "Умные люди, которые всё держат под контролем.md",
-    "//Леонид Тираспольский  Facebook.md",
-    "Комфорт не заниматься собой.md",
-    "Виды зла.md",
-    "Мои мысли и шутки. Часть 8.md",
-    "Тайное учение тибетского буддизма о медитации — 1.md",
-    "Суфийская Традиция.md",
-    "Точка с запятой - «Грамота.ру» – справочно-информационный Интернет-портал «Русский язык».md",
-    "Бузиг.md",
-    "715. NEI, 95-96.md",
-    "719. NEI, 103-104.md",
-    "1.3. Пространственные отношения — Теория виртуального мира.md",
-    "1.2. Теория виртуального мира — Теория виртуального мира.md",
-    "1.1. Нейрофизиология сознания — Теория виртуального мира.md",
-    "Дианалитическая дискуссия.md",
-    "729. NEI, 109-110.md",
-    "728. NEI, 107-108.md",
-    "727. NEI, 105-106.md",
-    "726. NEI, 103-104.md",
-    "Вопрос о цене языка.md"
+    "01/Evernote/_ _ __ ivanov_petrov — ЖЖ-26.md",
+    "01/Evernote/Диоген Лаэртский. КНИГА ПЕРВАЯ (Начало философии).md",
+    "Без названия 2.canvas",
+    "Без названия 1.canvas",
+    "Без названия.canvas",
+    "Telegram/photos/photo_02441_0 - 20231218141844415.jpg",
+    "Telegram/Официальный гайд по написанию  - 20231218141844433.md",
+    "img/7782098.gif",
+    "01/_resources/btn_sharethis.gif",
+    "Hypothesis/Астрономы объяснили свечение радионитей Галактики.md",
+    "Hypothesis/Risk is the Hair that holds the Tun.md",
+    "Hypothesis/Точка зрения. Физик Митио Каку говорит о приближающейся новой эре.md",
+    "Hypothesis/Об изготовлении бессмертия.md",
+    "Hypothesis/Герман Вейль о сознании в четырехмерном пространстве-времени.md",
+    "Hypothesis/Первое, что показывает себя... - Бибихин В.В. Книги.Статьи.Переводы  Facebook.md",
+    "Hypothesis/Стоя в наши дни у обочины... - Бибихин В.В. Книги.Статьи.Переводы  Facebook.md",
+    "Hypothesis/Dominion lasts until obtained –.md",
+    "Hypothesis/«Истина – это море травинок, колыхающееся... - Леонид Тираспольский  Facebook.md",
+    "Hypothesis/Смоленск, ночь.md",
+    "Hypothesis/Like Men and Women Shadows walk.md",
+    "Hypothesis/Я - это ты, убивший меня.md",
+    "Hypothesis/Елена Косилова - СдачаМария Надршина навела меня на...  Facebook.md",
+    "Hypothesis/Дмитрий Дейч - Дмитрий Дейч поделился воспоминанием.  Facebook.md",
+    "Hypothesis/Елена Косилова - Продолжение предыдущего поста О внутренней...  Facebook.md",
+    "Hypothesis/О материальности слов.md",
+    "Hypothesis/Вглубь.md",
+    "Hypothesis/Карл Густав Юнг.md",
+    "Hypothesis/Про быдло и сознательность.md",
+    "Hypothesis/«Was not» was all the Statement.md",
+    "Hypothesis/Экклезиаст, глава 1на русском языке. Ветхий Завет. Синодальный перевод Библии.md",
+    "Hypothesis/К 8-му марта.md",
+    "Hypothesis/Прошлое неопределенное.md",
+    "Telegram/photos",
+    "Hypothesis",
+    "Telegram"
   ]
 }
