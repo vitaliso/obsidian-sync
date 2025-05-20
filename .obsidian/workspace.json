@@ -36,7 +36,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -48,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#мир",
+                "query": "tag:#волшебство",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -118,8 +119,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Плагин больше не активен"
+              "icon": "clock",
+              "title": "Recent Files"
             }
           },
           {
@@ -142,20 +143,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Теги"
-            }
-          },
-          {
-            "id": "518477479e999ea5",
-            "type": "leaf",
-            "state": {
-              "type": "smtcmp-chat-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Плагин больше не активен"
             }
           },
           {
@@ -164,12 +157,22 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Плагин больше не активен"
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "0b482b898b74da01",
+            "type": "leaf",
+            "state": {
+              "type": "smtcmp-chat-view",
+              "state": {},
+              "icon": "wand-sparkles",
+              "title": "Smart composer chat"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "26831b8eb830d67d",
@@ -200,18 +203,22 @@
       "command-palette:Открыть палитру команд": false,
       "markdown-importer:Импорт Markdown-файлов": false,
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "smart-composer:Open smart composer": false
     }
   },
-  "active": "89afb67ed02ed1ca",
+  "active": "30006111b21e3768",
   "lastOpenFiles": [
+    "Hypothesis/article.md",
+    "01/Evernote/____ ivanov_petrov — ЖЖ-61.md",
+    "Hypothesis/Профанации - Агамбен Джорджо (Giorgio Agamben)  Предание.Ру — крупнейшая православная медиатека рунета.md",
+    "Без названия.canvas",
     "Hypothesis/(no title) (12).md",
     "Hypothesis/clever (11).md",
     "Hypothesis/Хронотоп расщеплённого атома Августин, Набоков и квантовая темпоральность сознания.md",
     "Hypothesis/Основание и есть правда.... - Бибихин В.В. Книги.Статьи.Переводы  Facebook.md",
     "Hypothesis/Достоинство отважного... - Бибихин В.В. Книги.Статьи.Переводы  Facebook.md",
     "Hypothesis/clever (10).md",
-    "Hypothesis/Профанации - Агамбен Джорджо (Giorgio Agamben)  Предание.Ру — крупнейшая православная медиатека рунета.md",
     "Hypothesis/Хосе Ортега-и-Гассет. Эссе на эстетические темы в форме предисловия.md",
     "Hypothesis/(no title) (11).md",
     "Hypothesis/Дэвид Бом Развёртывающееся значение. Часть 2. Обсуждение скрытого порядка – Гуманитарный портал.md",
@@ -229,11 +236,8 @@
     "Hypothesis/Эмили Дикинсон. А были б крылья... (Поэты Америки Поэты Европы)  Стихи.ру.md",
     "Hypothesis/Материальный хлам всегда... - Бибихин В.В. Книги.Статьи.Переводы  Facebook.md",
     "Hypothesis/Пусть буря с каждым часом злей (Райнер Рильке)  Стихи.ру.md",
-    "Hypothesis/Я тот же самый, тот же самый (Райнер Рильке)  Стихи.ру.md",
-    "Hypothesis/Александр Македонский — Википедия.md",
     "Без названия 2.canvas",
     "Без названия 1.canvas",
-    "Без названия.canvas",
     "Telegram/photos/photo_02441_0 - 20231218141844415.jpg",
     "img/7782098.gif",
     "01/_resources/btn_sharethis.gif",

@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "article",
+      "path": "Hypothesis/article.md"
+    },
+    {
+      "basename": "____ ivanov_petrov — ЖЖ-61",
+      "path": "01/Evernote/____ ivanov_petrov — ЖЖ-61.md"
+    },
+    {
+      "basename": "Профанации - Агамбен Джорджо (Giorgio Agamben)  Предание.Ру — крупнейшая православная медиатека рунета",
+      "path": "Hypothesis/Профанации - Агамбен Джорджо (Giorgio Agamben)  Предание.Ру — крупнейшая православная медиатека рунета.md"
+    },
+    {
+      "basename": "Без названия",
+      "path": "Без названия.canvas"
+    },
+    {
       "basename": "_ _ __ ivanov_petrov — ЖЖ-26",
       "path": "01/Evernote/_ _ __ ivanov_petrov — ЖЖ-26.md"
     },
@@ -165,10 +181,6 @@
       "path": "01/Evernote/_ _ __ ivanov_petrov — ЖЖ-79.md"
     },
     {
-      "basename": "article",
-      "path": "Hypothesis/article.md"
-    },
-    {
       "basename": "(no title)-21",
       "path": "01/Evernote/(no title)-21.md"
     },
@@ -187,16 +199,11 @@
     {
       "basename": "Миф о Человеке",
       "path": "Hypothesis/Миф о Человеке.md"
-    },
-    {
-      "basename": "Конструктивизм— Википедия",
-      "path": "Hypothesis/Конструктивизм— Википедия.md"
-    },
-    {
-      "basename": "Из школьных сочинений",
-      "path": "Hypothesis/Из школьных сочинений.md"
     }
   ],
   "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false,
   "maxLength": null
 }
