@@ -6,5 +6,8 @@
   "convert-url-to-iframe",
   "obsidian-auto-link-title",
   "find-unlinked-files",
-  "obsidian-chartsview-plugin"
+  "obsidian-chartsview-plugin",
+  "obsidian-importer",
+  "textanalysis",
+  "obsidian-mind-map"
 ]

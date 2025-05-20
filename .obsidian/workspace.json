@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5cfb55272d17a821",
+        "id": "332270405f3523e3",
         "type": "tabs",
         "children": [
           {
-            "id": "03842ce7bf754a63",
+            "id": "9f2ed57039905635",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -94,7 +94,7 @@
       {
         "id": "b1854dc9ad977d95",
         "type": "tabs",
-        "dimension": 50.38684719535783,
+        "dimension": 33.33333333333333,
         "children": [
           {
             "id": "64ba16afe2d2afa3",
@@ -163,12 +163,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "26831b8eb830d67d",
         "type": "tabs",
-        "dimension": 49.61315280464217,
+        "dimension": 25.557564798071127,
         "children": [
           {
             "id": "89afb67ed02ed1ca",
@@ -178,6 +178,23 @@
               "state": {},
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
+            }
+          }
+        ]
+      },
+      {
+        "id": "940ba1657bc58a7e",
+        "type": "tabs",
+        "dimension": 41.10910186859554,
+        "children": [
+          {
+            "id": "597795226e64b3f5",
+            "type": "leaf",
+            "state": {
+              "type": "textanalysis-view",
+              "state": {},
+              "icon": "eye",
+              "title": "Text Analysis"
             }
           }
         ]
@@ -196,15 +213,44 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
       "obsidian-git:Open Git source control": false,
       "smart-composer:Open smart composer": false,
-      "chat-with-bard:New Gemini Chat": false
+      "chat-with-bard:New Gemini Chat": false,
+      "obsidian-importer:Open Importer": false,
+      "infranodus-graph-view:InfraNodus Graph View": false,
+      "textanalysis:Text Analysis": false,
+      "juggl:Juggl global graph": false
     }
   },
-  "active": "03842ce7bf754a63",
+  "active": "597795226e64b3f5",
   "lastOpenFiles": [
-    "Hypothesis/ivanov-petrov.md",
+    "Evernote/Evernote/Введение в ритуальную силу_ anairos — ЖЖ-3.md",
+    "HTML import/messages.md",
+    "HTML import/messages3.md",
     "Без названия 3.canvas",
     "Без названия 2.canvas",
     "Без названия 1.canvas",
+    "Без названия.canvas",
+    "HTML import/messages2.md",
+    "HTML import",
+    "Telegram favorites/video_files/sticker (6).webm",
+    "Telegram favorites/video_files/sticker (7).webm",
+    "Telegram favorites/video_files/sticker (8).webm",
+    "Telegram favorites/images/section_stories.png",
+    "Telegram favorites/images/section_sessions@2x.png",
+    "Telegram favorites/images/section_web@2x.png",
+    "Telegram favorites/stickers/sticker (6).webp",
+    "Telegram favorites/stickers/sticker (5).webp",
+    "Telegram favorites/stickers/sticker (4).webp",
+    "Telegram favorites/messages3.html",
+    "Telegram favorites/stickers/AnimatedSticker (18).tgs",
+    "Telegram favorites/stickers/AnimatedSticker (17).tgs",
+    "Telegram favorites/stickers/AnimatedSticker (16).tgs",
+    "Telegram favorites/stickers/AnimatedSticker (15).tgs",
+    "Telegram favorites/video_files/sticker (5).webm",
+    "Telegram favorites/stickers/sticker (3).webp",
+    "Telegram favorites/stickers/sticker (2).webp",
+    "Telegram favorites/stickers/sticker (1).webp",
+    "Telegram favorites/stickers/sticker.webp",
+    "Hypothesis/ivanov-petrov.md",
     "Hypothesis/«ДАО И ЛОГОС»  Сайт С.П. Курдюмова Синергетика.md",
     "Hypothesis/И. А. Ильин ФИЛОСОФИЯ И ЖИЗНЬ.md",
     "Hypothesis/БИБЛИОГРАФИЧЕСКАЯ ЭВРИСТИКА.md",
@@ -216,12 +262,7 @@
     "Hypothesis/09 March 2020 - ускользающее.md",
     "Hypothesis/1.2. Теория виртуального мира — Теория виртуального мира.md",
     "Hypothesis/1.1. Нейрофизиология сознания — Теория виртуального мира.md",
-    "Gemini Chats/New Chat.gemini",
-    "Без названия.canvas",
-    "Gemini Chats",
-    "Telegram/photos/photo_02441_0 - 20231218141844415.jpg",
     "Telegram/Официальный гайд по написанию  - 20231218141844433.md",
-    "img/7782098.gif",
     "Hypothesis/(no title) (12).md",
     "Hypothesis/clever (11).md",
     "Hypothesis/Хронотоп расщеплённого атома Августин, Набоков и квантовая темпоральность сознания.md",
@@ -230,14 +271,6 @@
     "Hypothesis/Профанации - Агамбен Джорджо (Giorgio Agamben)  Предание.Ру — крупнейшая православная медиатека рунета.md",
     "Hypothesis/Основание и есть правда.... - Бибихин В.В. Книги.Статьи.Переводы  Facebook.md",
     "Hypothesis/Достоинство отважного... - Бибихин В.В. Книги.Статьи.Переводы  Facebook.md",
-    "Hypothesis/clever (10).md",
-    "Hypothesis/Хосе Ортега-и-Гассет. Эссе на эстетические темы в форме предисловия.md",
-    "Hypothesis/(no title) (11).md",
-    "Hypothesis/Дэвид Бом Развёртывающееся значение. Часть 2. Обсуждение скрытого порядка – Гуманитарный портал.md",
-    "Hypothesis/Горные вершины (Василий Чечель)  Стихи.ру.md",
-    "Evernote/_resources/btn_sharethis.gif",
-    "Telegram/photos",
-    "Hypothesis",
-    "Telegram"
+    "Hypothesis/clever (10).md"
   ]
 }
