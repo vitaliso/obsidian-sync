@@ -8,8 +8,8 @@
   "autoSyncInterval": 0,
   "dateTimeFormat": "YYYY-MM-DD HH:mm:ss",
   "history": {
-    "totalArticles": 172,
-    "totalHighlights": 1699
+    "totalArticles": 312,
+    "totalHighlights": 1867
   },
   "groups": [
     {
@@ -711,5 +711,5 @@
       "uri": "https%3A%2F%2Fwww.booksite.ru%2Ffulltext%2Flao%2Fczi%2Flaoczi%2Fdao%2F1.htm"
     }
   ],
-  "lastSyncDate": "2024-12-10T17:52:46.994Z"
+  "lastSyncDate": "2025-05-20T15:08:04.325Z"
 }

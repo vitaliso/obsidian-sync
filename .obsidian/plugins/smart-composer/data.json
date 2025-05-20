@@ -4,17 +4,17 @@
   "anthropicApiKey": "",
   "geminiApiKey": "sk-0dccc237d32b4b2080707ce899b81c3d",
   "groqApiKey": "",
-  "chatModelId": "gemini/gemini-1.5-pro",
+  "chatModelId": "ollama",
   "ollamaChatModel": {
-    "baseUrl": "",
-    "model": ""
+    "baseUrl": "http://localhost:11434/api/generate",
+    "model": "llama2"
   },
   "openAICompatibleChatModel": {
     "baseUrl": "",
     "apiKey": "",
     "model": ""
   },
-  "applyModelId": "gemini/gemini-1.5-flash",
+  "applyModelId": "ollama",
   "ollamaApplyModel": {
     "baseUrl": "",
     "model": ""
@@ -24,7 +24,7 @@
     "apiKey": "",
     "model": ""
   },
-  "embeddingModelId": "gemini/text-embedding-004",
+  "embeddingModelId": "ollama/bge-m3",
   "ollamaEmbeddingModel": {
     "baseUrl": "",
     "model": ""
