@@ -218,7 +218,7 @@
 218. [[Экономика, которой нет_ ivanov_petrov — ЖЖ]]
 219. [[Экономика, которой нет_ ivanov_petrov — ЖЖ-1]]
 220. [[Votre trs-humble et trs-obissant serviteur — ЖЖ]]
-[[(no title)]]
+[[Hypothesis/(no title)]]
 [[(no title)-1]]
 [[(no title)-2]]
 [[(no title)-3]]

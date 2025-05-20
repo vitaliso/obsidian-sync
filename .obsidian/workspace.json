@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "47c10197511ccf58",
+        "id": "5cfb55272d17a821",
         "type": "tabs",
         "children": [
           {
-            "id": "30006111b21e3768",
+            "id": "03842ce7bf754a63",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#волшебство",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -80,11 +80,12 @@
               "title": "Закладки"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 366.5
   },
   "right": {
     "id": "b30d597dedd726d9",
@@ -160,19 +161,9 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "0b482b898b74da01",
-            "type": "leaf",
-            "state": {
-              "type": "smtcmp-chat-view",
-              "state": {},
-              "icon": "wand-sparkles",
-              "title": "Smart composer chat"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "26831b8eb830d67d",
@@ -193,7 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318
+    "width": 432.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,18 +195,39 @@
       "markdown-importer:Импорт Markdown-файлов": false,
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
       "obsidian-git:Open Git source control": false,
-      "smart-composer:Open smart composer": false
+      "smart-composer:Open smart composer": false,
+      "chat-with-bard:New Gemini Chat": false
     }
   },
-  "active": "30006111b21e3768",
+  "active": "03842ce7bf754a63",
   "lastOpenFiles": [
-    "Hypothesis/article.md",
-    "01/Evernote/____ ivanov_petrov — ЖЖ-61.md",
-    "Hypothesis/Профанации - Агамбен Джорджо (Giorgio Agamben)  Предание.Ру — крупнейшая православная медиатека рунета.md",
+    "Hypothesis/ivanov-petrov.md",
+    "Без названия 3.canvas",
+    "Без названия 2.canvas",
+    "Без названия 1.canvas",
+    "Hypothesis/«ДАО И ЛОГОС»  Сайт С.П. Курдюмова Синергетика.md",
+    "Hypothesis/И. А. Ильин ФИЛОСОФИЯ И ЖИЗНЬ.md",
+    "Hypothesis/БИБЛИОГРАФИЧЕСКАЯ ЭВРИСТИКА.md",
+    "Hypothesis/Facebook.md",
+    "Hypothesis/Эстетика Платона - Русская историческая библиотека.md",
+    "Hypothesis/Учение Платона о прекрасном - Русская историческая библиотека.md",
+    "Hypothesis/Одни нули круглее других.md",
+    "Hypothesis/Нейрофизиология — разное — blog.rudnyi.ruru.md",
+    "Hypothesis/09 March 2020 - ускользающее.md",
+    "Hypothesis/1.2. Теория виртуального мира — Теория виртуального мира.md",
+    "Hypothesis/1.1. Нейрофизиология сознания — Теория виртуального мира.md",
+    "Gemini Chats/New Chat.gemini",
     "Без названия.canvas",
+    "Gemini Chats",
+    "Telegram/photos/photo_02441_0 - 20231218141844415.jpg",
+    "Telegram/Официальный гайд по написанию  - 20231218141844433.md",
+    "img/7782098.gif",
     "Hypothesis/(no title) (12).md",
     "Hypothesis/clever (11).md",
     "Hypothesis/Хронотоп расщеплённого атома Августин, Набоков и квантовая темпоральность сознания.md",
+    "Hypothesis/article.md",
+    "Evernote/Evernote/____ ivanov_petrov — ЖЖ-61.md",
+    "Hypothesis/Профанации - Агамбен Джорджо (Giorgio Agamben)  Предание.Ру — крупнейшая православная медиатека рунета.md",
     "Hypothesis/Основание и есть правда.... - Бибихин В.В. Книги.Статьи.Переводы  Facebook.md",
     "Hypothesis/Достоинство отважного... - Бибихин В.В. Книги.Статьи.Переводы  Facebook.md",
     "Hypothesis/clever (10).md",
@@ -223,24 +235,7 @@
     "Hypothesis/(no title) (11).md",
     "Hypothesis/Дэвид Бом Развёртывающееся значение. Часть 2. Обсуждение скрытого порядка – Гуманитарный портал.md",
     "Hypothesis/Горные вершины (Василий Чечель)  Стихи.ру.md",
-    "Hypothesis/Предельность произведения и другие понятия.md",
-    "Hypothesis/Дороти Паркер. Полночь (Поэты Америки Поэты Европы)  Стихи.ру.md",
-    "Hypothesis/Может ли быть, что мы не... - Бибихин В.В. Книги.Статьи.Переводы  Facebook.md",
-    "Hypothesis/набоковский отсыл к Хлебникову.md",
-    "Hypothesis/Э. Дикинсон. Пока Он не пришел... (Поэты Америки Поэты Европы)  Стихи.ру.md",
-    "Hypothesis/То, что внезапно бросает... - Бибихин В.В. Книги.Статьи.Переводы  Facebook.md",
-    "Hypothesis/Вот молодое красивое... - Бибихин В.В. Книги.Статьи.Переводы  Facebook.md",
-    "Hypothesis/clever (9).md",
-    "Hypothesis/(no title) (10).md",
-    "Hypothesis/Нельзя ни к чему относиться... - Бибихин В.В. Книги.Статьи.Переводы  Facebook.md",
-    "Hypothesis/Эмили Дикинсон. А были б крылья... (Поэты Америки Поэты Европы)  Стихи.ру.md",
-    "Hypothesis/Материальный хлам всегда... - Бибихин В.В. Книги.Статьи.Переводы  Facebook.md",
-    "Hypothesis/Пусть буря с каждым часом злей (Райнер Рильке)  Стихи.ру.md",
-    "Без названия 2.canvas",
-    "Без названия 1.canvas",
-    "Telegram/photos/photo_02441_0 - 20231218141844415.jpg",
-    "img/7782098.gif",
-    "01/_resources/btn_sharethis.gif",
+    "Evernote/_resources/btn_sharethis.gif",
     "Telegram/photos",
     "Hypothesis",
     "Telegram"
